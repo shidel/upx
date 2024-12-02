@@ -81,7 +81,7 @@ SPECIAL EXCEPTION FOR COMPRESSED EXECUTABLES
       version; either with our precompiled version, or (at your option)
       with a self compiled version of the unmodified UPX sources as
       distributed by us.
-   2. This also implies that the UPX stub must be completely unmodfied, i.e.
+   2. This also implies that the UPX stub must be completely unmodified, i.e.
       the stub imbedded in your compressed program must be byte-identical
       to the stub that is produced by the official unmodified UPX version.
    3. The decompressor and any other code from the stub must exclusively get
